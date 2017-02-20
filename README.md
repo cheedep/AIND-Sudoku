@@ -25,7 +25,7 @@ For example if box A1 has a value of "2" then none of its peers in its square un
 
 Example:
 ![Only choice example](images/only-choice.png "Only choice example")
-In the above image the top right box is the only box that has "1" as a possible solution. Hence that box can be assigned the value "1"
+In the above image, that depicts a square unit, the top right box is the only box that has "1" as a possible solution. Hence that box can be assigned the value "1"
 
 
 ### Install
